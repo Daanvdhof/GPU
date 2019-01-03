@@ -1,0 +1,403 @@
+Loading image converted_447846619_ea0e3c9609.png
+Preprocessing image
+Grid dimensions 16 x 16 (x 1)
+Block dimensions 14 x 14 x 3
+Preprocessing on GPU...
+Performing inference
+Starting timer Complete Network
+----------
+Starting timer conv1
+----------
+Performing convolution operation of layer conv1
+----------
+Ending timer conv1
+Time taken: 42113 us (0.042113 seconds)
+Starting timer conv2_1_expand
+----------
+Performing convolution operation of layer conv2_1_expand
+----------
+Ending timer conv2_1_expand
+Time taken: 103144 us (0.103144 seconds)
+Starting timer conv2_1_dwise
+----------
+Performing convolution operation of layer conv2_1_dwise
+----------
+Ending timer conv2_1_dwise
+Time taken: 34061 us (0.034061 seconds)
+Starting timer conv2_1_linear
+----------
+Performing convolution operation of layer conv2_1_linear
+----------
+Ending timer conv2_1_linear
+Time taken: 55350 us (0.055350 seconds)
+Starting timer conv2_2_expand
+----------
+Performing convolution operation of layer conv2_2_expand
+----------
+Ending timer conv2_2_expand
+Time taken: 159411 us (0.159411 seconds)
+Starting timer conv2_2_dwise
+----------
+Performing convolution operation of layer conv2_2_dwise
+----------
+Ending timer conv2_2_dwise
+Time taken: 24143 us (0.024143 seconds)
+Starting timer conv2_2_linear
+----------
+Performing convolution operation of layer conv2_2_linear
+----------
+Ending timer conv2_2_linear
+Time taken: 60898 us (0.060898 seconds)
+Starting timer conv3_1_expand
+----------
+Performing convolution operation of layer conv3_1_expand
+----------
+Ending timer conv3_1_expand
+Time taken: 89180 us (0.089180 seconds)
+Starting timer conv3_1_dwise
+----------
+Performing convolution operation of layer conv3_1_dwise
+----------
+Ending timer conv3_1_dwise
+Time taken: 28739 us (0.028739 seconds)
+Starting timer conv3_1_linear
+----------
+Performing convolution operation of layer conv3_1_linear
+----------
+Ending timer conv3_1_linear
+Time taken: 82572 us (0.082572 seconds)
+Starting timer block3_1
+----------
+Performing element wise operation of layer block3_1
+----------
+Ending timer block3_1
+Time taken: 279 us (0.000279 seconds)
+Starting timer conv3_2_expand
+----------
+Performing convolution operation of layer conv3_2_expand
+----------
+Ending timer conv3_2_expand
+Time taken: 90145 us (0.090145 seconds)
+Starting timer conv3_2_dwise
+----------
+Performing convolution operation of layer conv3_2_dwise
+----------
+Ending timer conv3_2_dwise
+Time taken: 11833 us (0.011833 seconds)
+Starting timer conv3_2_linear
+----------
+Performing convolution operation of layer conv3_2_linear
+----------
+Ending timer conv3_2_linear
+Time taken: 33993 us (0.033993 seconds)
+Starting timer conv4_1_expand
+----------
+Performing convolution operation of layer conv4_1_expand
+----------
+Ending timer conv4_1_expand
+Time taken: 44335 us (0.044335 seconds)
+Starting timer conv4_1_dwise
+----------
+Performing convolution operation of layer conv4_1_dwise
+----------
+Ending timer conv4_1_dwise
+Time taken: 13581 us (0.013581 seconds)
+Starting timer conv4_1_linear
+----------
+Performing convolution operation of layer conv4_1_linear
+----------
+Ending timer conv4_1_linear
+Time taken: 42265 us (0.042265 seconds)
+Starting timer block4_1
+----------
+Performing element wise operation of layer block4_1
+----------
+Ending timer block4_1
+Time taken: 147 us (0.000147 seconds)
+Starting timer conv4_2_expand
+----------
+Performing convolution operation of layer conv4_2_expand
+----------
+Ending timer conv4_2_expand
+Time taken: 42708 us (0.042708 seconds)
+Starting timer conv4_2_dwise
+----------
+Performing convolution operation of layer conv4_2_dwise
+----------
+Ending timer conv4_2_dwise
+Time taken: 12187 us (0.012187 seconds)
+Starting timer conv4_2_linear
+----------
+Performing convolution operation of layer conv4_2_linear
+----------
+Ending timer conv4_2_linear
+Time taken: 38646 us (0.038646 seconds)
+Starting timer block4_2
+----------
+Performing element wise operation of layer block4_2
+----------
+Ending timer block4_2
+Time taken: 146 us (0.000146 seconds)
+Starting timer conv4_3_expand
+----------
+Performing convolution operation of layer conv4_3_expand
+----------
+Ending timer conv4_3_expand
+Time taken: 43175 us (0.043175 seconds)
+Starting timer conv4_3_dwise
+----------
+Performing convolution operation of layer conv4_3_dwise
+----------
+Ending timer conv4_3_dwise
+Time taken: 12526 us (0.012526 seconds)
+Starting timer conv4_3_linear
+----------
+Performing convolution operation of layer conv4_3_linear
+----------
+Ending timer conv4_3_linear
+Time taken: 74992 us (0.074992 seconds)
+Starting timer conv4_4_expand
+----------
+Performing convolution operation of layer conv4_4_expand
+----------
+Ending timer conv4_4_expand
+Time taken: 144421 us (0.144421 seconds)
+Starting timer conv4_4_dwise
+----------
+Performing convolution operation of layer conv4_4_dwise
+----------
+Ending timer conv4_4_dwise
+Time taken: 22367 us (0.022367 seconds)
+Starting timer conv4_4_linear
+----------
+Performing convolution operation of layer conv4_4_linear
+----------
+Ending timer conv4_4_linear
+Time taken: 140426 us (0.140426 seconds)
+Starting timer block4_4
+----------
+Performing element wise operation of layer block4_4
+----------
+Ending timer block4_4
+Time taken: 178 us (0.000178 seconds)
+Starting timer conv4_5_expand
+----------
+Performing convolution operation of layer conv4_5_expand
+----------
+Ending timer conv4_5_expand
+Time taken: 146274 us (0.146274 seconds)
+Starting timer conv4_5_dwise
+----------
+Performing convolution operation of layer conv4_5_dwise
+----------
+Ending timer conv4_5_dwise
+Time taken: 23377 us (0.023377 seconds)
+Starting timer conv4_5_linear
+----------
+Performing convolution operation of layer conv4_5_linear
+----------
+Ending timer conv4_5_linear
+Time taken: 140767 us (0.140767 seconds)
+Starting timer block4_5
+----------
+Performing element wise operation of layer block4_5
+----------
+Ending timer block4_5
+Time taken: 230 us (0.000230 seconds)
+Starting timer conv4_6_expand
+----------
+Performing convolution operation of layer conv4_6_expand
+----------
+Ending timer conv4_6_expand
+Time taken: 149052 us (0.149052 seconds)
+Starting timer conv4_6_dwise
+----------
+Performing convolution operation of layer conv4_6_dwise
+----------
+Ending timer conv4_6_dwise
+Time taken: 25482 us (0.025482 seconds)
+Starting timer conv4_6_linear
+----------
+Performing convolution operation of layer conv4_6_linear
+----------
+Ending timer conv4_6_linear
+Time taken: 140834 us (0.140834 seconds)
+Starting timer block4_6
+----------
+Performing element wise operation of layer block4_6
+----------
+Ending timer block4_6
+Time taken: 303 us (0.000303 seconds)
+Starting timer conv4_7_expand
+----------
+Performing convolution operation of layer conv4_7_expand
+----------
+Ending timer conv4_7_expand
+Time taken: 146577 us (0.146577 seconds)
+Starting timer conv4_7_dwise
+----------
+Performing convolution operation of layer conv4_7_dwise
+----------
+Ending timer conv4_7_dwise
+Time taken: 9244 us (0.009244 seconds)
+Starting timer conv4_7_linear
+----------
+Performing convolution operation of layer conv4_7_linear
+----------
+Ending timer conv4_7_linear
+Time taken: 56819 us (0.056819 seconds)
+Starting timer conv5_1_expand
+----------
+Performing convolution operation of layer conv5_1_expand
+----------
+Ending timer conv5_1_expand
+Time taken: 85502 us (0.085502 seconds)
+Starting timer conv5_1_dwise
+----------
+Performing convolution operation of layer conv5_1_dwise
+----------
+Ending timer conv5_1_dwise
+Time taken: 11615 us (0.011615 seconds)
+Starting timer conv5_1_linear
+----------
+Performing convolution operation of layer conv5_1_linear
+----------
+Ending timer conv5_1_linear
+Time taken: 84960 us (0.084960 seconds)
+Starting timer block5_1
+----------
+Performing element wise operation of layer block5_1
+----------
+Ending timer block5_1
+Time taken: 113 us (0.000113 seconds)
+Starting timer conv5_2_expand
+----------
+Performing convolution operation of layer conv5_2_expand
+----------
+Ending timer conv5_2_expand
+Time taken: 82985 us (0.082985 seconds)
+Starting timer conv5_2_dwise
+----------
+Performing convolution operation of layer conv5_2_dwise
+----------
+Ending timer conv5_2_dwise
+Time taken: 12134 us (0.012134 seconds)
+Starting timer conv5_2_linear
+----------
+Performing convolution operation of layer conv5_2_linear
+----------
+Ending timer conv5_2_linear
+Time taken: 85413 us (0.085413 seconds)
+Starting timer block5_2
+----------
+Performing element wise operation of layer block5_2
+----------
+Ending timer block5_2
+Time taken: 112 us (0.000112 seconds)
+Starting timer conv5_3_expand
+----------
+Performing convolution operation of layer conv5_3_expand
+----------
+Ending timer conv5_3_expand
+Time taken: 85603 us (0.085603 seconds)
+Starting timer conv5_3_dwise
+----------
+Performing convolution operation of layer conv5_3_dwise
+----------
+Ending timer conv5_3_dwise
+Time taken: 7319 us (0.007319 seconds)
+Starting timer conv5_3_linear
+----------
+Performing convolution operation of layer conv5_3_linear
+----------
+Ending timer conv5_3_linear
+Time taken: 44903 us (0.044903 seconds)
+Starting timer conv6_1_expand
+----------
+Performing convolution operation of layer conv6_1_expand
+----------
+Ending timer conv6_1_expand
+Time taken: 65544 us (0.065544 seconds)
+Starting timer conv6_1_dwise
+----------
+Performing convolution operation of layer conv6_1_dwise
+----------
+Ending timer conv6_1_dwise
+Time taken: 7897 us (0.007897 seconds)
+Starting timer conv6_1_linear
+----------
+Performing convolution operation of layer conv6_1_linear
+----------
+Ending timer conv6_1_linear
+Time taken: 66234 us (0.066234 seconds)
+Starting timer block6_1
+----------
+Performing element wise operation of layer block6_1
+----------
+Ending timer block6_1
+Time taken: 47 us (0.000047 seconds)
+Starting timer conv6_2_expand
+----------
+Performing convolution operation of layer conv6_2_expand
+----------
+Ending timer conv6_2_expand
+Time taken: 63675 us (0.063675 seconds)
+Starting timer conv6_2_dwise
+----------
+Performing convolution operation of layer conv6_2_dwise
+----------
+Ending timer conv6_2_dwise
+Time taken: 8170 us (0.008170 seconds)
+Starting timer conv6_2_linear
+----------
+Performing convolution operation of layer conv6_2_linear
+----------
+Ending timer conv6_2_linear
+Time taken: 65511 us (0.065511 seconds)
+Starting timer block6_2
+----------
+Performing element wise operation of layer block6_2
+----------
+Ending timer block6_2
+Time taken: 49 us (0.000049 seconds)
+Starting timer conv6_3_expand
+----------
+Performing convolution operation of layer conv6_3_expand
+----------
+Ending timer conv6_3_expand
+Time taken: 64876 us (0.064876 seconds)
+Starting timer conv6_3_dwise
+----------
+Performing convolution operation of layer conv6_3_dwise
+----------
+Ending timer conv6_3_dwise
+Time taken: 7487 us (0.007487 seconds)
+Starting timer conv6_3_linear
+----------
+Performing convolution operation of layer conv6_3_linear
+----------
+Ending timer conv6_3_linear
+Time taken: 121428 us (0.121428 seconds)
+Starting timer conv6_4
+----------
+Performing convolution operation of layer conv6_4
+----------
+Ending timer conv6_4
+Time taken: 159835 us (0.159835 seconds)
+Starting timer pool6
+----------
+Performing pooling operation of layer pool6
+----------
+Ending timer pool6
+Time taken: 327 us (0.000327 seconds)
+Starting timer fc7
+----------
+Performing convolution operation of layer fc7
+----------
+Ending timer fc7
+Time taken: 55416 us (0.055416 seconds)
+----------
+Ending timer Complete Network
+Time taken: 3475419 us (3.475419 seconds)
+Detected class: 281
+[0;33mRobot finds kitteh![0m
